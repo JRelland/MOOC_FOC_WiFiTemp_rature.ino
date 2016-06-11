@@ -2,7 +2,7 @@
 
 Programme pour ESP8266
 
-MOOC_FOC_WiFiTemp_rature.ino
+MOOC_FOC_WiFiTemperature.ino
 
 José Relland - Juin 2016
 
