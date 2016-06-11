@@ -1,11 +1,15 @@
-# MOOC_FOC_WiFiTemp_rature.ino
+# MOOC_FOC_WiFiTemp_rature
 
 Programme pour ESP8266
+
 MOOC_FOC_WiFiTemp_rature.ino
+
 José Relland - Juin 2016
+
 troyesaubefablab@gmail.com
+
 Domaine Public
- *  
+
 Inpiré par le programme WiFiTemperature.ino 
 de Laurent Toutain (Télécom Bretagne) 
 du MOOC "Fabriquer un objet connecté"
