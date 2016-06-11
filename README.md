@@ -1,4 +1,4 @@
-# MOOC_FOC_WiFiTemp_rature
+# MOOC_FOC_WiFiTemperature
 
 Programme pour ESP8266
 
